@@ -1,0 +1,7 @@
+com\capstone\selenium\pages\ABTestingPage.class
+com\capstone\selenium\pages\FramesPage.class
+com\capstone\selenium\stepDefinitions\StepDefinitions.class
+com\capstone\selenium\pages\HomePage.class
+com\capstone\selenium\pages\DropdownPage.class
+com\capstone\selenium\runners\TestRunner.class
+com\capstone\selenium\base\BaseTest.class
