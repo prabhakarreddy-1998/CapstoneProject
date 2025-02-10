@@ -25,6 +25,3 @@ def test_file_upload(browser):
         file.write("This is a test file for upload.")
     
     file_upload_page.upload_file(file_path)
-
-    # Optionally, verify if the file is uploaded by checking if a success message appears.
-    # If there's no success message, you can skip or assert a different condition.
